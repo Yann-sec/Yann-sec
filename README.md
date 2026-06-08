@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Yann Thales! 👋
 
-<!--
-**Yann-sec/Yann-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta de Cibersegurança focado em **Defesa Cibernética (Blue Team)**, Análise de Phishing, Análise de Artefatos (Malware) e Suporte Técnico de Segurança. Atualmente, dedico meu tempo a laboratórios práticos e resolução de desafios no TryHackMe para aprimorar minhas habilidades de investigação.
 
-Here are some ideas to get you started:
+### 🛡️ Áreas de Interesse & Estudo
+* **Operações de SOC:** Monitoramento de eventos e triagem de alertas.
+* **Análise de Phishing:** Investigação de cabeçalhos de e-mail (headers), domínios maliciosos e anexos suspeitos.
+* **Análise de Malware:** Entendimento de comportamento de vírus, cavalos de troia e análise de hashes (VirusTotal, Any.Run).
+* **Suporte e Infraestrutura:** Hardening de sistemas operacionais (Windows/Linux) e fundamentos de redes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas e Conquistas
+* 🏆 **TryHackMe Profile:** https://tryhackme.com/p/YannT
+
+### 🛠️ Tecnologias e Ferramentas em Estudo
+* **Análise/Tráfego:** Wireshark, CyberChef, PhishTool.
+* **SIEM/Logs:** Splunk, Wazuh.
+* **Sistemas:** Linux (Ubuntu/Kali), Windows Server.
