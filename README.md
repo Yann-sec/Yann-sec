@@ -1,4 +1,4 @@
-# Olá, eu sou o Yann Thales! 👋
+# Olá, eu sou o Yann! 👋
 
 Sou um entusiasta de Cibersegurança focado em **Defesa Cibernética (Blue Team)**, Análise de Phishing, Análise de Artefatos (Malware) e Suporte Técnico de Segurança. Atualmente, dedico meu tempo a laboratórios práticos e resolução de desafios no TryHackMe para aprimorar minhas habilidades de investigação.
 
